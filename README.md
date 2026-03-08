@@ -91,23 +91,7 @@ Models are evaluated using metrics like:
 
 Mean Absolute Error (MAE)
 
-Mean Squared Error (MSE)
-
-R² Score
-
-## Example Match Situation
-
-Input:
-
-Overs: 2.2
-Score: 5/0
-Current Run Rate: 2.31
-
-Predicted Output:
-
-Predicted Final Score: 150+ runs (example prediction depending on model)
-
-🛠 Technologies Used
+## Technologies Used
 
 Python
 
